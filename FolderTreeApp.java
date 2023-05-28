@@ -1,3 +1,4 @@
+//Лабораторна робота 1
 package org.example;
 
 import java.io.File;
